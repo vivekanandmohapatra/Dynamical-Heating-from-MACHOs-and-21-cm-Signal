@@ -1,6 +1,6 @@
 # Global 21-cm signal in the presence of MACHO dynamical-friction heating
 
-Computes the global 21-cm brightness temperature `T_21(z)` for an IGM heated by dynamical friction on MACHOs (MAssive Compact Halo Objects), including standard recombination, Compton coupling, and  Ly-alpha & X-ray heating from the first star-forming haloes. Furthermore, we have incorporated physically motivated mass spectra such as the Log-normal distribution and critical collapse, in addition to the monochromatic distribution.
+Computes the global 21-cm brightness temperature `T_21(z)` for an IGM heated by dynamical friction on MACHOs (MAssive Compact Halo Objects), including standard recombination, Compton coupling, and  Ly-alpha & X-ray heating from the first star-forming haloes. Furthermore, we have incorporated physically motivated mass spectra such as the Log-normal distribution and critical collapse, in addition to the monochromatic distribution. If you find this repository helpful and relevant, kindly add this paper (https://arxiv.org/abs/2604.17083) to your references.
 
 
 # Primary idea: 
@@ -11,7 +11,7 @@ Computes the global 21-cm brightness temperature `T_21(z)` for an IGM heated by 
 - Furthermore, frictional force depends on the ratio $v_{bc}/c_s$, where $c_s$ is the sound speed. Interestingly, this ratio remains subsonic before recombination; hence, the MACHOs enter the supersonic regime right after recombination, thus leaving little to no imprint on the CMB. This makes the dark ages 21-cm signal the most important probe for such dark matter candidates, providing a cosmological window free from astrophysical uncertainties.
   
 # References:
-- ### Dark ages bounds on nonaccreting massive compact halo objects (https://arxiv.org/abs/2604.17083) --- If you find this paper relevant and this repository helpful, please add this paper to your references.
+- Dark ages bounds on nonaccreting massive compact halo objects (https://arxiv.org/abs/2604.17083)
 - Dynamical Heating from Dark Compact Objects and Axion Minihalos: Implications for the 21-cm Signal (https://arxiv.org/abs/2512.00169)
 - Nonlinear Dynamical Friction in a Gaseous Medium (https://arxiv.org/abs/0908.1391)
 - Unified gas heating constraints on extended dark matter compact objects (https://arxiv.org/abs/2508.18344)
